@@ -1,5 +1,6 @@
 # voxelorb
-Built on a generative model, the code enables predicting anatomy (a full MR volume) of a patient in subsequent scans following a single baseline image.
+Built on a generative model, the code enables predicting anatomy (a full MR volume) of a patient in subsequent scans following a single baseline image. 
+Based on the paper
 
 **Predictive Modeling of Anatomy with Genetic and Clinical Data**  
 A.V. Dalca, R. Sridharan, M.R. Sabuncu, P. Golland.  
