@@ -16,4 +16,4 @@ The concepts are best explained through concise [5-minute video](https://www.you
 **Predictive Modeling of Anatomy with Genetic and Clinical Data**  
 A.V. Dalca, R. Sridharan, M.R. Sabuncu, P. Golland.  
 MICCAI: Medical Image Computing and Computer Assisted Intervention, LNCS 9351, pp. 519-526, 2015.  
-
+[arXiv](https://arxiv.org/abs/2010.04757)
